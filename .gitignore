@@ -1,5 +1,8 @@
 #gitignore file for bingo generator python code
 
+#utilities script
+/script/*
+
 #output files
 /output/*
 
