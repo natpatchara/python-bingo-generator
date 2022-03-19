@@ -5,9 +5,11 @@
 
 #output files
 /output/*
+!/output/.gitkeep 
 
 #image material
 /pic/*
+!/pic/.gitkeep 
 
 #python project structure
 pyproject.toml

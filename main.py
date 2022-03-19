@@ -1,7 +1,7 @@
 import sys
 import glob
 from PIL import Image
-from bingo_generator import *
+from source.bingo_generator import *
 
 '''# for test only
 #sys.argv += ['images/dot-*.png', 2, 3]
