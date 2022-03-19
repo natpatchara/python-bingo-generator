@@ -4,11 +4,11 @@ Bingo generator python source code by natpatchra pongjirapat based on script by 
 
 ref: https://stackoverflow.com/questions/60234264/program-to-create-an-image-grid-dynamically-from-a-folder-with-images-in-it
 
-## table of content
+## Table of content
 * [project structure](#project-structure)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [example](#example)
+* [usage](#usage)
 * [status](#status)
 * [reference](#reference)
 
@@ -74,14 +74,14 @@ As of writing this markdown file, our project is at a stage of a small scale rea
 
 In summary our current features and to do include:
 
-### features
-* Working main script for creating bingo card
-* Main depencdencies file with working function
+* features
+    * Working main script for creating bingo card
+    * Main depencdencies file with working function
 
-### todo
-* Improve documentation for dependencies
-* Intensive testing
-* Optimization
+* todo
+    * Improve documentation for dependencies
+    * Intensive testing
+    * Optimization
 
 ## reference
 - Original source code by furas replied from [stackoverflow](https://stackoverflow.com/questions/60234264/program-to-create-an-image-grid-dynamically-from-a-folder-with-images-in-it)
