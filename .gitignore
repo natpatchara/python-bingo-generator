@@ -1,0 +1,13 @@
+#gitignore file for bingo generator python code
+
+#output files
+/output/*
+
+#image material
+/pic/*
+
+#python project structure
+pyproject.toml
+
+#cache files
+/__pycache__/*
