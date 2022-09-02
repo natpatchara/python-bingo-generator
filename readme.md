@@ -1,6 +1,7 @@
 # Bingo generator
 
 Bingo generator python source code by natpatchra pongjirapat based on script by furas
+For project in community medicine academic year 2021
 
 ref: https://stackoverflow.com/questions/60234264/program-to-create-an-image-grid-dynamically-from-a-folder-with-images-in-it
 
