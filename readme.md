@@ -10,9 +10,9 @@ ref: https://stackoverflow.com/questions/60234264/program-to-create-an-image-gri
 * [project structure](#project-structure)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [usage](#usage)
-* [status](#status)
-* [reference](#reference)
+* [Usage](#usage)
+* [Status](#status)
+* [Reference](#reference)
 
 ## project structure
 ```
