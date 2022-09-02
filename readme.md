@@ -7,7 +7,7 @@ For project in community medicine academic year 2021
 ref: https://stackoverflow.com/questions/60234264/program-to-create-an-image-grid-dynamically-from-a-folder-with-images-in-it
 
 ## Table of content
-* [project structure](#project-structure)
+* [Project structure](#project-structure)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Usage](#usage)
